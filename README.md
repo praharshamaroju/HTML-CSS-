@@ -34,21 +34,38 @@ A web browser (e.g., Chrome, Firefox)
 12.Accessibility & Best Practices
 
 🟦 CSS Concepts
+<br>
 1.CSS Basics
+<br>
 2.Ways to Apply CSS
+<br>
 3.CSS Selectors
+<br>
 4.Text and Fonts
+<br>
 5.Box Model
+<br>
 6.Backgrounds and Borders
+<br>
 7.Display & Visibility
+<br>
 8.Positioning
+<br>
 9.Flexbox Layout
+<br>
 10.Grid Layout
+<br>
 11.Sizing and Units
+<br>
 12.Colors and Gradients
+<br>
 13.Transitions and Animations
+<br>
 14.Media Queries & Responsive Design
+<br>
 15.CSS Variables
+<br>
 16.CSS Best Practices
+<br>
 
 *notes will be added later *
