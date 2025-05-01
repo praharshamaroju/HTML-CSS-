@@ -20,61 +20,35 @@ A web browser (e.g., Chrome, Firefox)
 
 
 🟧 HTML Concepts
-HTML Basics
-
-HTML Document Structure
-
-Text Content
-
-Links & Anchors
-
-Images
-
-Lists
-
-Tables
-
-Forms
-
-Multimedia
-
-Semantic HTML
-
-Meta Tags and SEO
-
-Accessibility & Best Practices
+1.HTML Basics
+2.HTML Document Structure
+3.Text Content
+4.Links & Anchors
+5.Images
+6.Lists
+7.Tables
+8.Forms
+9.Multimedia
+10.Semantic HTML
+11.Meta Tags and SEO
+12.Accessibility & Best Practices
 
 🟦 CSS Concepts
-CSS Basics
-
-Ways to Apply CSS
-
-CSS Selectors
-
-Text and Fonts
-
-Box Model
-
-Backgrounds and Borders
-
-Display & Visibility
-
-Positioning
-
-Flexbox Layout
-
-Grid Layout
-
-Sizing and Units
-
-Colors and Gradients
-
-Transitions and Animations
-
-Media Queries & Responsive Design
-
-CSS Variables
-
-CSS Best Practices
+1.CSS Basics
+2.Ways to Apply CSS
+3.CSS Selectors
+4.Text and Fonts
+5.Box Model
+6.Backgrounds and Borders
+7.Display & Visibility
+8.Positioning
+9.Flexbox Layout
+10.Grid Layout
+11.Sizing and Units
+12.Colors and Gradients
+13.Transitions and Animations
+14.Media Queries & Responsive Design
+15.CSS Variables
+16.CSS Best Practices
 
 *notes will be added later *
