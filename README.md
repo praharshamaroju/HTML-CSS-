@@ -20,18 +20,31 @@ A web browser (e.g., Chrome, Firefox)
 
 
 🟧 HTML Concepts
+<br>
 1.HTML Basics
+<br>
 2.HTML Document Structure
+<br>
 3.Text Content
+<br>
 4.Links & Anchors
+<br>
 5.Images
+<br>
 6.Lists
+<br>
 7.Tables
+<br>
 8.Forms
+<br>
 9.Multimedia
+<br>
 10.Semantic HTML
+<br>
 11.Meta Tags and SEO
+<br>
 12.Accessibility & Best Practices
+<br>
 
 🟦 CSS Concepts
 <br>
